@@ -9,7 +9,7 @@
 
 🚀 **Try the application here:**
 
-**https://california-housing-price-prediction-ml-bfpccpz4r6qmbnqvbphm9y.streamlit.app/**
+[**https://california-housing-price-prediction-ml-bfpccpz4r6qmbnqvbphm9y.streamlit.app/**](https://california-housing-price-prediction-ml-3xqftsmnrd7kte3o4tfeaa.streamlit.app/)
 
 ---
 
@@ -127,6 +127,6 @@ streamlit run app.py
 💻 Machine Learning & Python Enthusiast
 
 🔗 **Live Demo:**  
-https://california-housing-price-prediction-ml-bfpccpz4r6qmbnqvbphm9y.streamlit.app/
+[https://california-housing-price-prediction-ml-bfpccpz4r6qmbnqvbphm9y.streamlit.app/](https://california-housing-price-prediction-ml-3xqftsmnrd7kte3o4tfeaa.streamlit.app/)
 
 ⭐ If you found this project interesting, consider giving it a Star!
