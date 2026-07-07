@@ -1,0 +1,17 @@
+California Housing Price Prediction
+
+Linear Regression
+RMSE : 0.7456
+R2 Score : 0.5758
+
+Polynomial Regression
+RMSE : 0.6814
+R2 Score : 0.6457
+
+Ridge Regression
+RMSE : 0.7456
+R2 Score : 0.5758
+
+Lasso Regression
+RMSE : 0.8244
+R2 Score : 0.4814

@@ -1,0 +1,8 @@
+Name,Age,Gender,Income,City,Date_of_Joining
+Alice,25.0,Female,50000.0,New York,2020-06-10
+Bob,,Male,60000.0,,2021-05-20
+Charlie,30.0,,80000.0,Boston,2019-08-15
+David,40.0,Male,,New York,2020-01-30
+Eva,29.0,Female,72000.0,Chicago,
+Alice,25.0,Female,50000.0,New York,2020-06-10
+Frank,38.0,Male,900000.0,Boston,2018-03-10

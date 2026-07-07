@@ -1,0 +1,6 @@
+Sample Prediction
+
+Linear Regression : 2.0094
+Polynomial Regression : 1.9241
+Ridge Regression : 2.0092
+Lasso Regression : 1.8589
